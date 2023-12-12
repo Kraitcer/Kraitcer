@@ -1,4 +1,4 @@
-<h1 align="center">Hi there ✌️. My name is Gleb Kreitser and I am a front and developer on my way to become the full stack</h3>
+<h1 align="center">Hi there ✌️. My name is Gleb Kreitser and I am a front-end developer on my way to become the full stack</h3>
 
 <h3 align="left">I am most experienced in the following languages:</h3>
 <p align="left">
