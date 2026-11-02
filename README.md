@@ -25,7 +25,7 @@
   <a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" title="Rust" width="40" height="40"></a>&nbsp;
   <a href="https://vite.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="40" height="40"></a>&nbsp;
   <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" width="40" height="40"></a>&nbsp;
-  <a href="https://pinia.vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pinia/pinia-original.svg" alt="Pinia" title="Pinia" width="40" height="40"></a>&nbsp;
+  <a href="https://pinia.vuejs.org/"><img src="https://cdn.simpleicons.org/pinia/FFD859" alt="Pinia" title="Pinia" width="40" height="40"></a>&nbsp;
   <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="40" height="40"></a>&nbsp;
   <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="40" height="40"></a>&nbsp;
   <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" height="40"></a>&nbsp;
